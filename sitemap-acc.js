@@ -71,7 +71,7 @@ function loadtoc(json) {
     sortlabel();
     tocLoaded = true;
     displayToc2();
-    document.write('</br><a href="https://rahmadbah.com/" style="font-size: 8px; text-decoration:none; color: #616469;">Get This Widget</a>')
+    document.write('</br><a href="https://rahmadbah.com/" style="font-size: 5px; text-decoration:none; color: #616469;">Get This Widget</a>')
 }
 
 function filterPosts(filter) {
