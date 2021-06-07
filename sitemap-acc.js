@@ -71,7 +71,7 @@ function loadtoc(json) {
     sortlabel();
     tocLoaded = true;
     displayToc2();
-    document.write('</br><a href="http://bukancincai.com/" style="font-size: 8px; text-decoration:none; color: #616469;">Get This Widget</a>')
+    document.write('</br><a href="https://rahmadbah.com/" style="font-size: 8px; text-decoration:none; color: #616469;">Get This Widget</a>')
 }
 
 function filterPosts(filter) {
@@ -318,7 +318,7 @@ function hideToc() {
     var tocdiv = document.getElementById("toc");
     tocdiv.innerHTML = '';
     var toclink = document.getElementById("toclink");
-    toclink.innerHTML = '<a href="#" onclick="scroll(0,0); showToc(); Effect.toggle(' + "'toc-result','blind');" + '">¡í Menampilkan Daftar Isi</a> <img src="http://radiorodja.googlepages.com/new_1.gif"/>'
+    toclink.innerHTML = '<a href="#" onclick="scroll(0,0); showToc(); Effect.toggle(' + "'toc-result','blind');" + '">Â¡Ã­ Menampilkan Daftar Isi</a> <img src="http://radiorodja.googlepages.com/new_1.gif"/>'
 }
 
 function looptemp2() {
